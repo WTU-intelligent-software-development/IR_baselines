@@ -27,7 +27,7 @@ Run the code in read.py for additional feature extraction (e.g., re, tc, uc feat
 Run the combine.py file to combine the features.
 
 3. Data Cleaning
-Run Data_clear.py to clean features from datasets (e.g., UC_FULL for eTOUR, CC_Full, ID_Full, TC_Full, UC_Full for EasyClinic).
+Run Data_clear.py to clean features from datasets.
 
 4. Result Calculation
 For the EasyClinic dataset, run Easy_verification.py (with both VSM and LSI).
